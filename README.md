@@ -7,4 +7,7 @@
 * Thiago Brito Marinho Falcão Barbosa
 * Caio Vinícius Gomes da Silva
 * Maike Henrique Rodrigues de Menezes 
-
+## Nome do Projeto:
+**Restaurant Control**
+## Repositório de cpodigo no GITHUB:
+* [MatheusFidelisPE](https://github.com/MatheusFidelisPE)
